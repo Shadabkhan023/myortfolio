@@ -6,9 +6,9 @@ import c from "../assets/images/c.png";
 import cpp from "../assets/images/cplus.png";
 import nodejs from "../assets/images/nodejs.png";
 import express from "../assets/images/express.png";
-import mongoDB from "../assets/images/mongoDB.png"
-import reactjs from "../assets/images/reactjs.png"
-import tailwind from "../assets/images/Tailwind.png"
+import mongodb from "../assets/images/mongo.png";
+import reactjs from "../assets/images/reactjs.png";
+import tailwind from "../assets/images/tailwind.png";
 import { motion } from "framer-motion";
 
 function Experience() {
@@ -20,7 +20,7 @@ function Experience() {
     { id: 5, logo: cpp, name: "CPP" },
     { id: 6, logo: nodejs, name: "NodeJS" },
     { id: 7, logo: express, name: "ExpressJS" },
-    { id: 8, logo: mongoDB, name: "MongoDB" },
+    { id: 8, logo: mongodb, name: "MongoDB" },
     { id: 9, logo: reactjs, name: "React" },
     { id: 10, logo: tailwind, name: "TailwindCSS" },
   ];
