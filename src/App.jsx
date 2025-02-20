@@ -4,9 +4,10 @@ import Home from "./components/Home";
 import About from "./components/About";
 import Footer from "./components/Footer";
 import Contact from "./components/Contact";
-import { Toaster } from "react-hot-toast";
+import ToastContainer from "./components/ToastContainer";
 import Experience from "./components/Experience";
 import Projects from "./components/Projects";
+
 
 function App() {
   return (
@@ -20,7 +21,7 @@ function App() {
         <Contact />
         <Footer />
       </div>
-      <Toaster />
+      <ToastContainer />
     </>
   );
 }
