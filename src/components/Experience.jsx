@@ -1,18 +1,14 @@
 import React from "react";
 import html from "../assets/images/html.png";
 import css from "../assets/images/css.png";
-import java from "../assets/images/java.png";
 import javascript from "../assets/images/javascript.png";
-import oracle from "../assets/images/oracle.png";
-import spring from "../assets/images/spring.png";
 import c from "../assets/images/c.png";
 import cpp from "../assets/images/cplus.png";
 import nodejs from "../assets/images/nodejs.png";
 import express from "../assets/images/express.png";
-import mongoDB from "../assets/images/mongodb.png"
+import mongoDB from "../assets/images/mongoDB.png"
 import reactjs from "../assets/images/reactjs.png"
 import tailwind from "../assets/images/Tailwind.png"
-import springBoot from "../assets/images/springBoot.jpg";
 import { motion } from "framer-motion";
 
 function Experience() {
