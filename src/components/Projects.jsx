@@ -4,6 +4,7 @@ import airbnb from "../assets/images/airbnb.png";
 import myntra from "../assets/images/myntra.png";
 import comingsoon from "../assets/images/ComingSoon.avif";
 import hpp from "../assets/images/hpp.png";
+import netflix from "../assets/images/netflix.png";
 
 
 
@@ -12,7 +13,7 @@ function Projects() {
     { id: 1, logo: hpp,  name: "HousePricePrediction" , link : " https://mysite-0a68.onrender.com" ,  Code:"https://github.com/Shadabkhan023/HousePricePrediction.git" , info: " web-based house price prediction system built using Django, HTML, and CSS, with a trained machine learning model for price estimation." },
     { id: 2, logo: airbnb,  name: "AirBnBClone" , link : "https://airbnbclone-vswe.onrender.com " ,  Code:"https://github.com/Shadabkhan023/airbnbclone.git" , info: "Airbnb clone using backend technologies, incorporating essential functionalities like adding a home and marking homes as favorites." },
     { id: 3, logo: myntra, name: "MyntraClone" , link : " https://myntraclone-frontend-2o6p.onrender.com",  Code:"https://github.com/Shadabkhan023/myntraClone.git" , info: "Myntra clone using React.js for the frontend and a local Node.js server for managing data. The project dynamically fetches product details."},
-    { id: 4, logo: comingsoon, name: "Newproject" , link : " ", Code:"" , info: "Coming Soon...."}
+    { id: 4, logo: netflix, name: "Netflix Movie Recommendation" , link : "https://movierecommendationmodel.onrender.com ", Code:"https://github.com/Shadabkhan023/movierecommendationmodel.git" , info: "Netflix movie recommendation model that suggests personalized movies based on user preferences using machine learning."}
    ];
 
   return (
